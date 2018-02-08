@@ -1,7 +1,4 @@
-# Python Training
-
-
-# Getting Started
+# Python Training - Getting Started
 ## Types, Statements, and Other Goodies
 ### Types in Python
 #### Integers and Floats
