@@ -1,15 +1,10 @@
-#Python Training
+# Python Training
 
-**Table of Contents**
 
-[TOCM]
-
-[TOC]
-
-#Getting Started
-##Types, Statements, and Other Goodies
-###Types in Python
-####Integers and Floats
+# Getting Started
+## Types, Statements, and Other Goodies
+### Types in Python
+#### Integers and Floats
 ```python
 answer = 42  # Integer
 pi = 3.14159  # Float
@@ -19,7 +14,7 @@ We can convert or cast a variable to an integer or to a float.
 int(pi) == 3
 float(answer) == 42.0
 ```
-####Strings
+#### Strings
 Strings can be defined using single quotes and double quotes.
 ```python
 'Hello World'  # String
@@ -46,7 +41,7 @@ name = "Python"
 machine = "Frank"
 f"Nice to meet you {name}, I am {machine}"  # We must to add the letter f
 ```
-####Boolean and None
+#### Boolean and None
 ```python
 python_course = True  # The first letter needs to start with a capital letter T
 java_course = False
@@ -61,12 +56,12 @@ None is similar to null in other languages.
 ```python
 aliens_found = None
 ```
-####Other Data Types
-###If Statements
-###Lists
-###Loops
-###Break and Continue
-###While Loops
-###Dictionaries
-###Exceptions
+#### Other Data Types
+### If Statements
+### Lists
+### Loops
+### Break and Continue
+### While Loops
+### Dictionaries
+### Exceptions
 
