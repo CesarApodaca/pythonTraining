@@ -1,0 +1,3 @@
+* Convertir de JSON a CSV y viceversa.
+* Preguntar al usuario si quiere a;adir un usuario o no. Mientras diga que si, seguira a;adiendo usuarios
+    y cuando el usuario diga que no, dejara de preguntar y mostrara todos los estudiantes.

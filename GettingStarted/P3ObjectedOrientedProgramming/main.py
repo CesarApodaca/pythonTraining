@@ -1,0 +1,3 @@
+from P3ObjectedOrientedProgramming.hs_student import HighSchoolStudent
+james = HighSchoolStudent("James")
+print(james.get_name_capitalize())
