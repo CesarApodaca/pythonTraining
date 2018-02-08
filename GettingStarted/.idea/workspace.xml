@@ -103,8 +103,8 @@
         <entry file="file://$PROJECT_DIR$/../README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="523">
-                <caret line="141" column="38" lean-forward="true" selection-start-line="141" selection-start-column="38" selection-end-line="141" selection-end-column="38" />
+              <first_editor relative-caret-position="793">
+                <caret line="156" column="38" lean-forward="true" selection-start-line="156" selection-start-column="38" selection-end-line="156" selection-end-column="38" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -169,8 +169,8 @@
         <option value="$PROJECT_DIR$/P3ObjectedOrientedProgramming/students.py" />
         <option value="$PROJECT_DIR$/P4PuttingItAllTogether/app.py" />
         <option value="$PROJECT_DIR$/P3ObjectedOrientedProgramming/inheritance_polymorphism.py" />
-        <option value="$PROJECT_DIR$/../README.md" />
         <option value="$PROJECT_DIR$/../Weeklys/Weekly1.md" />
+        <option value="$PROJECT_DIR$/../README.md" />
       </list>
     </option>
   </component>
@@ -832,8 +832,8 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="523">
-            <caret line="141" column="38" lean-forward="true" selection-start-line="141" selection-start-column="38" selection-end-line="141" selection-end-column="38" />
+          <first_editor relative-caret-position="793">
+            <caret line="156" column="38" lean-forward="true" selection-start-line="156" selection-start-column="38" selection-end-line="156" selection-end-column="38" />
             <folding />
           </first_editor>
           <second_editor />

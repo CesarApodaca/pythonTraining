@@ -153,3 +153,5 @@ student_names[1:-1] == ["Katarina"]
 ### Dictionaries
 ### Exceptions
 
+### Sources
+- [Python: Getting Started](https://app.pluralsight.com/library/courses/python-getting-started)
