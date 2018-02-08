@@ -103,8 +103,8 @@
         <entry file="file://$PROJECT_DIR$/../README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="609">
-                <caret line="120" column="9" lean-forward="false" selection-start-line="120" selection-start-column="9" selection-end-line="120" selection-end-column="9" />
+              <first_editor relative-caret-position="523">
+                <caret line="141" column="38" lean-forward="true" selection-start-line="141" selection-start-column="38" selection-end-line="141" selection-end-column="38" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -170,6 +170,7 @@
         <option value="$PROJECT_DIR$/P4PuttingItAllTogether/app.py" />
         <option value="$PROJECT_DIR$/P3ObjectedOrientedProgramming/inheritance_polymorphism.py" />
         <option value="$PROJECT_DIR$/../README.md" />
+        <option value="$PROJECT_DIR$/../Weeklys/Weekly1.md" />
       </list>
     </option>
   </component>
@@ -586,7 +587,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1TypesStatementsOtherGoodies/int_long_real.py" />
     <entry file="file://$PROJECT_DIR$/1TypesStatementsOtherGoodies/boolean_cast.py" />
     <entry file="file://$PROJECT_DIR$/2FunctionsFilesYieldLambda/nested_functions.py" />
     <entry file="file://$PROJECT_DIR$/2FunctionsFilesYieldLambda/functions.py" />
@@ -812,6 +812,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../Weeklys/Weekly1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="144">
+            <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../README.md">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="846">
@@ -821,8 +832,8 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="609">
-            <caret line="120" column="9" lean-forward="false" selection-start-line="120" selection-start-column="9" selection-end-line="120" selection-end-column="9" />
+          <first_editor relative-caret-position="523">
+            <caret line="141" column="38" lean-forward="true" selection-start-line="141" selection-start-column="38" selection-end-line="141" selection-end-column="38" />
             <folding />
           </first_editor>
           <second_editor />

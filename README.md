@@ -132,6 +132,20 @@ If we need to know the length of a string or list we use.
 len(student_names) == 4
 ```
 
+If we need to delete an element, we use.
+```python
+del student_names[2]  #without parenthesis 
+```
+
+If we want to skip the first element in our list, we use List Slicing.
+```python
+student_names = ["Mark", "Katarina", "Jessica"]
+student_nmes[1:] == ["Katarina", "Jessica"]
+
+# If we want to ignore the first and the last element
+student_names[1:-1] == ["Katarina"]
+
+```
 
 ### Loops
 ### Break and Continue
