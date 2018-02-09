@@ -148,8 +148,52 @@ student_names[1:-1] == ["Katarina"]
 ```
 
 ### Loops
+```python
+for name in student_list:
+    print("Student name is {0}".format(name))
+```
+We can use the range function if we want to limit our loop
+how many increases will has our iteration, the start & end.
+
+```python
+x = 0
+for index in range(10):
+    x += 10
+    print("this value of X is {0}".format(x))
+```
+
+```python
+range(5, 10, 2)  # start, end, increases
+```
 ### Break and Continue
+If we need to stop our loop in some moment we use break.
+```python
+student_names = ["Mark", "James", "Jessica", "Juan"]
+
+for name in student_names:
+    if name == "James":
+        print("Found him")
+        break
+    print("currently testing")
+```
+If we want to skip an iteration we use skip.
+```python
+student_names = ["Mark", "James", "Jessica", "Juan"]
+
+for name in student_names:
+    if name == "James":
+        continue
+        print("Found him")
+    print("currently testing")
+```
 ### While Loops
+While loops are very similar to normal loops.
+```python
+x = 0
+while x < 10:
+    print("Count is {0}". format(x))
+    x += 1
+```
 ### Dictionaries
 ### Exceptions
 
