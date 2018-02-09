@@ -195,6 +195,39 @@ while x < 10:
     x += 1
 ```
 ### Dictionaries
+With dictionaries we have keys and values.
+```python
+student = {
+    "name": "Mark",
+    "student_id": 15613,
+    "feedback": None
+}
+student["name"] == "Mark"
+```
+If we want to have more dictionaries we create a dictionaries list.
+```python
+all_studens = [
+    {"name": "Mark", "student_id": 15613},
+    {"name": "Jessica", "student_id": 15513},
+    {"name": "Cesar", "student_id": 13613}
+]
+```
+If we are not sure about some key we use the function get.
+```python
+student.get("last_name", "Unknown") == "Unknown"
+# If the key doesn't exist, it returns Unknown
+```
+If we want to know the values from our dictionary.
+```python
+student.values() == ["Mark", 15613, None]
+
+# Or keys
+student.keys() == ["name", "student_id", "feedback"]
+```
+If we want to delete a key, we use del.
+```python
+del student["name"]
+```
 ### Exceptions
 
 ### Sources
