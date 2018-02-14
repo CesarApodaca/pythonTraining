@@ -229,6 +229,17 @@ If we want to delete a key, we use del.
 del student["name"]
 ```
 ### Exceptions
-
+We can use exceptions for situations where we know our software maybe could stop or crash.
+```python
+student = {
+    "name": "Mark",
+    "student_id": 123
+}
+try:
+    last_name = student["last_name"]
+except KeyError:  # Also we can use Exception for general errors.
+    print("Error")  
+  
+```
 ### Sources
 - [Python: Getting Started](https://app.pluralsight.com/library/courses/python-getting-started)
