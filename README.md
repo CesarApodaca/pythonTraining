@@ -1,3 +1,6 @@
+This is the most interesting part of our component, if the character list has already been fetched, we use the map array function to create a new array, peopleArray,  which holds a list of actual character data in form of small string arrays containing [name, birth year] pairs. Then we use <Table> component with one <Row> containing header text and then - <Rows> element, which iterates through  peopleArray, creating row for each of its elements. This would result in table containing Star Wars characters data to be rendered
+
+
 # Python Training - Getting Started
 ## Types, Statements, and Other Goodies
 ### Types in Python
